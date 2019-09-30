@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="Osmorc" url="file://$PROJECT_DIR$/camel/camel-example-1" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/camel/camel-example-2" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/camel/camel-example-3" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/camel/camel-example-4" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/camel/camel-example-5" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/generator/generator-1" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/simple/serial" />
+    <file type="Osmorc" url="file://$PROJECT_DIR$/simple/simple-example-1" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/camel/camel-example4/pom.xml" />
+        <option value="$PROJECT_DIR$/serial/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/simple/serial/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
